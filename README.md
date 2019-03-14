@@ -7,7 +7,7 @@ Given an array select a number that exists, and output the computated "score". T
 Create a Console application that requests 5 numbers between 1-10. Output the array to the console and Ask the user to select a number. After the selection, output the "score" of the number chosen.
 Screen capture of successful output.
 
-![my working solution for challenge 1]()
+![my working solution for challenge 1](/images-progress/preworkChallenge1.JPG)
 
 
 Name of Challenge
