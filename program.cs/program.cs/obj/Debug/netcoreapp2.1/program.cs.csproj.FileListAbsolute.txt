@@ -1,0 +1,11 @@
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\bin\Debug\netcoreapp2.1\program.cs.deps.json
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\bin\Debug\netcoreapp2.1\program.cs.runtimeconfig.json
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\bin\Debug\netcoreapp2.1\program.cs.runtimeconfig.dev.json
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\bin\Debug\netcoreapp2.1\program.cs.dll
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\bin\Debug\netcoreapp2.1\program.cs.pdb
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\obj\Debug\netcoreapp2.1\program.cs.csprojAssemblyReference.cache
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\obj\Debug\netcoreapp2.1\program.cs.csproj.CoreCompileInputs.cache
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\obj\Debug\netcoreapp2.1\program.cs.AssemblyInfoInputs.cache
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\obj\Debug\netcoreapp2.1\program.cs.AssemblyInfo.cs
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\obj\Debug\netcoreapp2.1\program.cs.dll
+C:\Users\perci\codefellows\401\prework-CodeChallenges\program.cs\program.cs\obj\Debug\netcoreapp2.1\program.cs.pdb
