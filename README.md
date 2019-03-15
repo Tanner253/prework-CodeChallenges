@@ -14,7 +14,7 @@ Name of Challenge: Leap year calculator
 Instructions of Challenge: Given a year, report if it is a leap year.
 Screen capture of successful output.
 
-
+![my working solution for challenge 1](/images-progress/challenge-2.png)
 
 
 Name of Challenge: perfect sequence
@@ -23,7 +23,7 @@ Instructions of Challenge: Given an array. Return "Yes" if the sequence is consi
 Perfect Sequences
 A perfect sequence is a sequence such that all of its elements are non-negative integers and the product of all of them is equal to their sum. For example: [2,2], [1,3,2] and [0,0,0,0] are perfect sequences and [4,5,6] and [0,2,-2] are not perfect sequences. Negative numbers of any kind are not valid in a perfect sequence
 Screen capture of successful output.
-
+![my working solution for challenge 1](/images-progress/challenge-3.png)
 
 
 
