@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\program.cs"
+    "\\images-progress",
+    "\\program.cs",
+    "\\program.cs\\program.cs"
   ],
-  "SelectedNode": "\\program.cs\\program.cs.sln",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
