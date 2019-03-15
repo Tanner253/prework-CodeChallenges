@@ -50,7 +50,7 @@ namespace program.cs
             int prod = 1;
             foreach (int val in array)
             {
-               prod *= val;
+                prod *= val;
             }
             int arraySum = array.Sum();
             if (arraySum == prod)
@@ -61,6 +61,11 @@ namespace program.cs
             {
                 return 0;
             }
+        }
+        public static int SolutionFour()
+            {
+                int[,] myArray = new int[3, 5] { { }, { }, { };
+            };
 
         }
     }
