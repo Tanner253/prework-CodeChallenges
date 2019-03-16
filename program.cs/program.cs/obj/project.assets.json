@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\perci\\codefellows\\401\\prework-CodeChallenges\\program.cs\\program.cs\\program.cs.csproj",
+      "projectUniqueName": "C:\\Users\\perci\\Source\\Repos\\Tanner253\\prework-CodeChallenges\\program.cs\\program.cs\\program.cs.csproj",
       "projectName": "program.cs",
-      "projectPath": "C:\\Users\\perci\\codefellows\\401\\prework-CodeChallenges\\program.cs\\program.cs\\program.cs.csproj",
+      "projectPath": "C:\\Users\\perci\\Source\\Repos\\Tanner253\\prework-CodeChallenges\\program.cs\\program.cs\\program.cs.csproj",
       "packagesPath": "C:\\Users\\perci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\perci\\codefellows\\401\\prework-CodeChallenges\\program.cs\\program.cs\\obj\\",
+      "outputPath": "C:\\Users\\perci\\Source\\Repos\\Tanner253\\prework-CodeChallenges\\program.cs\\program.cs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

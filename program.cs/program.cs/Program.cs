@@ -21,6 +21,9 @@ namespace program.cs
             Console.WriteLine(SolutionTwo(givenYear));
             Console.WriteLine($"is the sequence perfect? 1 = yes 0 = no :");
             Console.WriteLine(SolutionThree(arrayThree));
+           
+            Console.WriteLine(solutionFourSum(SolutionFour()));
+            
         }
         public static int Solution(int[] inputArray, int inputInteger)
         {
@@ -62,11 +65,44 @@ namespace program.cs
                 return 0;
             }
         }
-        public static int SolutionFour()
+        public static int[,] SolutionFour()
             {
-                int[,] myArray = new int[3, 5] { { }, { }, { };
-            };
+            Console.Write("Please choose the length of your array: ");
+            int length = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Please choose the width of your array: ");
+            int width = Convert.ToInt32(Console.ReadLine());
+            int[,] myArray = new int[width, length];
 
+            
+            
+            for (int m = 0; m < width; m++)
+            {
+                for (int n = 0; n < length; n++)
+                {
+                    myArray[m, n] = Convert.ToInt32(Console.ReadLine()); 
+                    
+                }
+                
+            }
+
+            return myArray;
+        }
+        public static int[] solutionFourSum(int[,] twoDArrays)
+        {
+            int chosenArrayLength = twoDArrays.GetLength(1);
+            int chosenArrayWidth = twoDArrays.GetLength(0);
+
+            int[] sums = new int[chosenArrayWidth];
+
+            for (int i = 0; i < chosenArrayWidth; i++)
+            {
+                for (int j = 0; j < chosenArrayLength; j++)
+                {
+                    sums[i] += twoDArrays[i, j];
+                }
+            }
+            Console.WriteLine("[{0}]", string.Join(", ", sums));
+            return sums;
         }
     }
 }
