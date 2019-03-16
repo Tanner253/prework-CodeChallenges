@@ -34,3 +34,4 @@ Given a matrix of integers. Return the sum of each row in a single dimensional a
 
 Input Format
 Screen capture of successful output.
+![my working solution for challenge 1](/images-progress/challenge-4.png)
