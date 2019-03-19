@@ -62,11 +62,7 @@ namespace program.cs
                 return 0;
             }
         }
-        public static int SolutionFour()
-            {
-                int[,] myArray = new int[3, 5] { { }, { }, { };
-            };
-
-        }
+      
+        
     }
 }
