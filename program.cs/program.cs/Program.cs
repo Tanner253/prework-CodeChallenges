@@ -62,7 +62,24 @@ namespace program.cs
                 return 0;
             }
         }
-      
-        
+        public static int[] solutionFourSum(int[,] twoDArrays)
+        {
+            int chosenArrayLength = twoDArrays.GetLength(1);
+            int chosenArrayWidth = twoDArrays.GetLength(0);
+
+            int[] sums = new int[chosenArrayWidth];
+
+            for (int i = 0; i < chosenArrayWidth; i++)
+            {
+                for (int j = 0; j < chosenArrayLength; j++)
+                {
+                    sums[i] += twoDArrays[i, j];
+                }
+            }
+            Console.WriteLine("[{0}]", string.Join(", ", sums));
+            return sums;
+        }
+
+
     }
 }
